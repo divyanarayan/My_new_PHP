@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Sowjanya</h1>
+                <h1>hi Sowjanya</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is running now&ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 <p>This host is running PHP application <?php echo phpversion(); ?>.</p>
